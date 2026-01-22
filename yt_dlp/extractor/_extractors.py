@@ -955,6 +955,7 @@ from .khanacademy import (
     KhanAcademyIE,
     KhanAcademyUnitIE,
 )
+from .kbjfan import KBJFanIE
 from .kick import (
     KickClipIE,
     KickIE,
